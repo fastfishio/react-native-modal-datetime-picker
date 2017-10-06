@@ -29,7 +29,7 @@
     "url": "https://github.com/mmazzarolo/react-native-modal-datetime-picker"
   },
   "dependencies": {
-    "moment": "^2.18.1",
+    "moment": "git:https://github.com/fastfishio/react-native-modal-datetime-picker#release",
     "prop-types": "15.5.10",
     "react-native-modal": "3.1.0"
   },
